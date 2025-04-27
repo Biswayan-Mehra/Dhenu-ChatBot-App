@@ -59,7 +59,7 @@ AssistiveFarmingBot/
 
 Clone the repository:
 ```bash
-git clone https://github.com/Biswayan-Mehra/AssistiveFarmingBot.git
+git clone https://github.com/Biswayan-Mehra/Dhenu-ChatBot-App.git
 ```
 
 Navigate into the folder:
