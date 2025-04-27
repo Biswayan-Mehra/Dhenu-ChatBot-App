@@ -64,7 +64,7 @@ git clone https://github.com/Biswayan-Mehra/Dhenu-ChatBot-App.git
 
 Navigate into the folder:
 ```bash
-cd AssistiveFarmingBot
+cd Dhenu-ChatBot-App
 ```
 
 Install dependencies:
